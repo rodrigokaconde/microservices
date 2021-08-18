@@ -4,4 +4,4 @@ spring:
 
   cloud:
     config:
-      url: https://github.com/rodrigokaconde/microservicesarchitect.git
+      url: https://localhost:8888
