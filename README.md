@@ -1,6 +1,6 @@
 # microservicesarchitecture
 
-## Project micro-service based architecture
+## Project Microservices based architecture
 
 ## Technologies used
 - Java
