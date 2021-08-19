@@ -1,4 +1,4 @@
-# microservicesarchitect
+# microservicesarchitecture
 
 ## Project micro-service based architecture
 
